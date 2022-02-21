@@ -20,12 +20,25 @@
 		<HomeDownload kind="apple" url="https://store.steampowered.com/app/1495380/Tricky_Machines/"/>
 		<HomeDownload kind="google" url="https://store.steampowered.com/app/1495380/Tricky_Machines/"/>
 	</HomeGame>
-	<HomeGame name="Sumotori Dreams"
-		image="sumo-home.webp"
+	<HomeGame name="Goofball Goals"
+		image="goof-home.webp"
 		description="Goofball Goals is a very happy soccer game with fully physically based character animation using interactive alive ragdolls in a destructible environment."
 		url="/trickymachines/">
 		<HomeDownload kind="windows" url="https://store.steampowered.com/app/1495380/Tricky_Machines/"/>
 		<HomeDownload kind="apple" url="https://store.steampowered.com/app/1495380/Tricky_Machines/"/>
+		<HomeDownload kind="google" url="https://store.steampowered.com/app/1495380/Tricky_Machines/"/>
+	</HomeGame>
+	<HomeGame name="Tricky Truck"
+		image="tt-home.webp"
+		description="Test your parking skills with huge trucks. Drive through hard mountain roads. Fully physics based gameplay."
+		url="/trickymachines/">
+		<HomeDownload kind="windows" url="https://store.steampowered.com/app/1495380/Tricky_Machines/"/>
+	</HomeGame>
+	<HomeGame name="Sumotori Dreams"
+		image="sumo-home.webp"
+		description="Sumotori Dreams is a light hearted ragdoll game and screen saver, where two japanese wrestlers have to force the opponent to the ground."
+		url="/trickymachines/">
+		<HomeDownload kind="windows" url="https://store.steampowered.com/app/1495380/Tricky_Machines/"/>
 		<HomeDownload kind="google" url="https://store.steampowered.com/app/1495380/Tricky_Machines/"/>
 	</HomeGame>
 </HomeGrid>
