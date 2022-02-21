@@ -1,0 +1,1 @@
+<img src="/images/logo-center.svg" alt="Gravity Sensation" class="w-28" />
