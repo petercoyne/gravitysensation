@@ -16,3 +16,11 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Rajdhani', sans-serif;
 }
+
+.link {
+	@apply cursor-pointer text-gs-blue underline underline-offset-2 decoration-2 decoration-gs-blue-dark decoration-dotted hover:text-gs-blue-light;
+}
+
+.gsborder {
+	@apply border-gs-blue border-opacity-30;
+}

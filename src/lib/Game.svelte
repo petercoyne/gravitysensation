@@ -9,7 +9,7 @@
 		<img src="/images/{image}" alt="{name}"/>
 	</a>
 	<p class="text-sm lg:text-md py-4 leading-6 opacity-70 grow">{description}</p>
-	<a href="{url}" class="text-gs-blue underline">Learn More</a>
+	<a href="{url}" class="link">Learn More</a>
 	<div class="flex pt-6 gap-2">
 		<slot/>
 	</div>

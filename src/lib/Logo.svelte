@@ -1,1 +1,7 @@
-<img src="/images/logo-center.svg" alt="Gravity Sensation" class="w-28" />
+<script>
+	export let align, size;
+</script>
+
+<a href="/">
+	<img src="/images/logo-{align}.svg" alt="Gravity Sensation" class="{size}" />
+</a>
